@@ -1,0 +1,19 @@
+## Interface: 80100
+## Title: TriviaBot |cffff3300AszolusOfDoomhowl|r
+## Notes: HC Statistics question set
+## Author: Aszolus of Doomhowl
+## Version: 8.1.5
+
+# add the name of your question file below this line \/
+TriviaQuestions.lua
+
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
+## X-TriviaBot-Questions: 1
+## LoadOnDemand: 1
+## Dependencies: TriviaBot
+core.lua
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
