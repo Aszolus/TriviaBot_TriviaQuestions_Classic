@@ -24,8 +24,8 @@ TriviaBot_Questions[1]['Author']      = "Aszolus-Doomhowl"
 
 -- Add at least one category
 TriviaBot_Questions[1]['Categories'][1] = "Deadly NPCs, places, and things"
-TriviaBot_Questions[1]['Categories'][2] = "Elwynn Forest"
-TriviaBot_Questions[1]['Categories'][2] = "Horde Trivia"
+TriviaBot_Questions[1]['Categories'][2] = "Alliance Trivia"
+TriviaBot_Questions[1]['Categories'][3] = "Horde Trivia"
 
 TriviaBot_Questions[1]['Question'][1] = "What is the Deadliest Creature in Duskwood? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][1] = {"Stitches"}
@@ -618,9 +618,170 @@ TriviaBot_Questions[1]['Category'][90] = 3
 TriviaBot_Questions[1]['Points'][90] = "1"
 TriviaBot_Questions[1]['Hints'][90] = {}
 
-TriviaBot_Questions[1]['Question'][91] = "What is the name of the boat which travels between Ratchet and Booty Bay?"
-TriviaBot_Questions[1]['Answers'][91] = {"The Maiden's Fancy", "Maiden's Fancy"}
+TriviaBot_Questions[1]['Question'][91] = "The rank 11 PvP title for Alliance is Commander.  What is the rank 11 Horde PvP title?"
+TriviaBot_Questions[1]['Answers'][91] = {"Lieutenant General", "Lt. General"}
 TriviaBot_Questions[1]['Category'][91] = 3
 TriviaBot_Questions[1]['Points'][91] = "1"
 TriviaBot_Questions[1]['Hints'][91] = {}
 
+TriviaBot_Questions[1]['Question'][92] = "What is the highest Horde PvP rank's title?"
+TriviaBot_Questions[1]['Answers'][92] = {"High Warlord"}
+TriviaBot_Questions[1]['Category'][92] = 3
+TriviaBot_Questions[1]['Points'][92] = "1"
+TriviaBot_Questions[1]['Hints'][92] = {}
+
+TriviaBot_Questions[1]['Question'][92] = "In the pvp battleground Arathi Basic, which location is furthest from the Horde starting location?"
+TriviaBot_Questions[1]['Answers'][92] = {"Stables"}
+TriviaBot_Questions[1]['Category'][92] = 3
+TriviaBot_Questions[1]['Points'][92] = "1"
+TriviaBot_Questions[1]['Hints'][92] = {}
+
+TriviaBot_Questions[1]['Question'][93] = "Zoram’gar Outpost is a small but key Horde base in which contested zone?"
+TriviaBot_Questions[1]['Answers'][93] = {"Ashenvale"}
+TriviaBot_Questions[1]['Category'][93] = 3
+TriviaBot_Questions[1]['Points'][93] = "1"
+TriviaBot_Questions[1]['Hints'][93] = {}
+
+TriviaBot_Questions[1]['Question'][94] = "Thunder Bluff, the capital city of the Tauren, is perched atop how many major connected mesas in Mulgore?"
+TriviaBot_Questions[1]['Answers'][94] = {"4", "Four"}
+TriviaBot_Questions[1]['Category'][94] = 3
+TriviaBot_Questions[1]['Points'][94] = "1"
+TriviaBot_Questions[1]['Hints'][94] = {}
+
+TriviaBot_Questions[1]['Question'][95] = "The Wailing Caverns instance in the Northern Barrens features a quest to help awaken a tauren druid from a twisted dream. Name that druid."
+TriviaBot_Questions[1]['Answers'][95] = {"Naralex"}
+TriviaBot_Questions[1]['Category'][95] = 3
+TriviaBot_Questions[1]['Points'][95] = "1"
+TriviaBot_Questions[1]['Hints'][95] = {}
+
+TriviaBot_Questions[1]['Question'][96] = "Which cultist group can be found in Skull Rock?"
+TriviaBot_Questions[1]['Answers'][96] = {"The Burning Blade cultists", "Burning Blade", "Burning blade cultists", "The burning blade"}
+TriviaBot_Questions[1]['Category'][96] = 3
+TriviaBot_Questions[1]['Points'][96] = "1"
+TriviaBot_Questions[1]['Hints'][96] = {}
+
+TriviaBot_Questions[1]['Question'][97] = "In Thousand Needles, which tribe of hostile tauren does the Horde frequently battle as part of quest lines near Freewind Post?"
+TriviaBot_Questions[1]['Answers'][97] = {"The Grimtotem tribe", "grimtotem", "grimtotem tribe"}
+TriviaBot_Questions[1]['Category'][97] = 3
+TriviaBot_Questions[1]['Points'][97] = "1"
+TriviaBot_Questions[1]['Hints'][97] = {}
+
+TriviaBot_Questions[1]['Question'][98] = "Forsaken are renowned for having a powerful ability that helped them break fear and other crowd-control effects. What is this signature active racial trait called?"
+TriviaBot_Questions[1]['Answers'][98] = {"Will of the Forsaken"}
+TriviaBot_Questions[1]['Category'][98] = 3
+TriviaBot_Questions[1]['Points'][98] = "1"
+TriviaBot_Questions[1]['Hints'][98] = {}
+
+TriviaBot_Questions[1]['Question'][99] = "What is the name of the towering elevator which helps players transition between the Barrens and Thousand Needles?"
+TriviaBot_Questions[1]['Answers'][99] = {"The Great Lift"}
+TriviaBot_Questions[1]['Category'][99] = 3
+TriviaBot_Questions[1]['Points'][99] = "1"
+TriviaBot_Questions[1]['Hints'][99] = {}
+
+TriviaBot_Questions[1]['Question'][100] = "How many creatures can Tauren's Warstomp ability potentially stun?"
+TriviaBot_Questions[1]['Answers'][100] = {"5", "five"}
+TriviaBot_Questions[1]['Category'][100] = 3
+TriviaBot_Questions[1]['Points'][100] = "1"
+TriviaBot_Questions[1]['Hints'][100] = {}
+
+TriviaBot_Questions[1]['Question'][101] = "What is the name of the towering elevator which helps players transition between the Barrens and Thousand Needles?"
+TriviaBot_Questions[1]['Answers'][101] = {"The Great Lift"}
+TriviaBot_Questions[1]['Category'][101] = 3
+TriviaBot_Questions[1]['Points'][101] = "1"
+TriviaBot_Questions[1]['Hints'][101] = {}
+
+TriviaBot_Questions[1]['Question'][101] = "What is the name of the quest which rewards Really Sticky Glue?"
+TriviaBot_Questions[1]['Answers'][101] = {"A Solvent Spirit"}
+TriviaBot_Questions[1]['Category'][101] = 3
+TriviaBot_Questions[1]['Points'][101] = "1"
+TriviaBot_Questions[1]['Hints'][101] = {}
+
+TriviaBot_Questions[1]['Question'][102] = "Quote: \"You too shall serve\""
+TriviaBot_Questions[1]['Answers'][102] = {"Archmage Arugal", "Arugal"}
+TriviaBot_Questions[1]['Category'][102] = 3
+TriviaBot_Questions[1]['Points'][102] = "1"
+TriviaBot_Questions[1]['Hints'][102] = {}
+
+TriviaBot_Questions[1]['Question'][103] = "How often will an orc warrior with 5 talent points put into [Iron Will] resist stuns?"
+TriviaBot_Questions[1]['Answers'][103] = {"45", "Forty five", "45%", "Forty five Percent"}
+TriviaBot_Questions[1]['Category'][103] = 3
+TriviaBot_Questions[1]['Points'][103] = "1"
+TriviaBot_Questions[1]['Hints'][103] = {}
+
+TriviaBot_Questions[1]['Question'][104] = "This deadly level 12 goblin NPC can be found in Durotar surrounded by several Burning Blade cultists and an imp.  To reach him, you must pass through Thunder Lizard Gulch (or jump down a great distance)."
+TriviaBot_Questions[1]['Answers'][104] = {"Fizzle Darkstorm"}
+TriviaBot_Questions[1]['Category'][104] = 3
+TriviaBot_Questions[1]['Points'][104] = "1"
+TriviaBot_Questions[1]['Hints'][104] = {}
+
+TriviaBot_Questions[1]['Question'][105] = "This deadly quest in Stonetalon Peaks asks the player to defend Piznik while he mines \"gold-green ore.\"  What is the name of the quest?"
+TriviaBot_Questions[1]['Answers'][105] = {"Gerenzo's Orders"}
+TriviaBot_Questions[1]['Category'][105] = 3
+TriviaBot_Questions[1]['Points'][105] = "1"
+TriviaBot_Questions[1]['Hints'][105] = {}
+
+TriviaBot_Questions[1]['Question'][106] = "Which zone is home to Lake Everstill?"
+TriviaBot_Questions[1]['Answers'][106] = {"Redridge Mountains", "Redridge"}
+TriviaBot_Questions[1]['Category'][106] = 2
+TriviaBot_Questions[1]['Points'][106] = "1"
+TriviaBot_Questions[1]['Hints'][106] = {}
+
+TriviaBot_Questions[1]['Question'][107] = "Which dwarven clan is primarily based in Ironforge?"
+TriviaBot_Questions[1]['Answers'][107] = {"Bronzebeard", "The Bronzebeard Clan", "Bronzebeard Clan"}
+TriviaBot_Questions[1]['Category'][107] = 2
+TriviaBot_Questions[1]['Points'][107] = "1"
+TriviaBot_Questions[1]['Hints'][107] = {}
+
+TriviaBot_Questions[1]['Question'][108] = "Which dwarven clan can be found at Aerie Peak?"
+TriviaBot_Questions[1]['Answers'][108] = {"Wildhammer", "The Wildhammer Clan", "Wildhammer Clan"}
+TriviaBot_Questions[1]['Category'][108] = 2
+TriviaBot_Questions[1]['Points'][108] = "1"
+TriviaBot_Questions[1]['Hints'][108] = {}
+
+TriviaBot_Questions[1]['Question'][109] = "True of False: The Wildhammer Clan is not officially part of the Alliance."
+TriviaBot_Questions[1]['Answers'][109] = {"True"}
+TriviaBot_Questions[1]['Category'][109] = 2
+TriviaBot_Questions[1]['Points'][109] = "1"
+TriviaBot_Questions[1]['Hints'][109] = {}
+
+TriviaBot_Questions[1]['Question'][110] = "In which zone is the conclusion to the Missing Diplomat Questline?"
+TriviaBot_Questions[1]['Answers'][110] = {"Dustwallow Marsh"}
+TriviaBot_Questions[1]['Category'][110] = 2
+TriviaBot_Questions[1]['Points'][110] = "1"
+TriviaBot_Questions[1]['Hints'][110] = {}
+
+TriviaBot_Questions[1]['Question'][111] = "Onyxia is famously disguised as which NPC in Stormwind?"
+TriviaBot_Questions[1]['Answers'][111] = {"Lady Katrana Prestor"}
+TriviaBot_Questions[1]['Category'][111] = 2
+TriviaBot_Questions[1]['Points'][111] = "1"
+TriviaBot_Questions[1]['Hints'][111] = {}
+
+TriviaBot_Questions[1]['Question'][112] = "What is the name quest which finally reveals Onyxia's deception in Stormwind?"
+TriviaBot_Questions[1]['Answers'][112] = {"The Great Masquerade"}
+TriviaBot_Questions[1]['Category'][112] = 2
+TriviaBot_Questions[1]['Points'][112] = "1"
+TriviaBot_Questions[1]['Hints'][112] = {}
+
+TriviaBot_Questions[1]['Question'][113] = "What Alliance-aligned group battles against the Frostwolf clan in Alterac Valley?"
+TriviaBot_Questions[1]['Answers'][113] = {"The Stormpike Guard", "Stormpike Guard"}
+TriviaBot_Questions[1]['Category'][113] = 2
+TriviaBot_Questions[1]['Points'][113] = "1"
+TriviaBot_Questions[1]['Hints'][113] = {}
+
+TriviaBot_Questions[1]['Question'][114] = "What is the name of the quest that Alliance players must complete in Theramore in order to progress First Aid beyond level 225?"
+TriviaBot_Questions[1]['Answers'][114] = {"Triage"}
+TriviaBot_Questions[1]['Category'][114] = 2
+TriviaBot_Questions[1]['Points'][114] = "1"
+TriviaBot_Questions[1]['Hints'][114] = {}
+
+TriviaBot_Questions[1]['Question'][115] = "The massive quest chain known as \"The Missing Diplomat\" revolves around the disappearance of which key Alliance figure in Vanilla WoW?"
+TriviaBot_Questions[1]['Answers'][115] = {"King Varian Wrynn", "Varian", "Varian Wrynn"}
+TriviaBot_Questions[1]['Category'][115] = 2
+TriviaBot_Questions[1]['Points'][115] = "1"
+TriviaBot_Questions[1]['Hints'][115] = {}
+
+TriviaBot_Questions[1]['Question'][116] = "The massive quest chain known as \"The Missing Diplomat\" revolves around the disappearance of which key Alliance figure in Vanilla WoW?"
+TriviaBot_Questions[1]['Answers'][116] = {"King Varian Wrynn", "Varian", "Varian Wrynn"}
+TriviaBot_Questions[1]['Category'][116] = 2
+TriviaBot_Questions[1]['Points'][116] = "1"
+TriviaBot_Questions[1]['Hints'][116] = {}
