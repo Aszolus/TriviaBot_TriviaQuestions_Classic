@@ -63,8 +63,8 @@ TriviaBot_Questions[1]['Category'][5] = 1
 TriviaBot_Questions[1]['Points'][5] = "1"
 TriviaBot_Questions[1]['Hints'][5] = {}
 
-TriviaBot_Questions[1]['Question'][6] = "What is the Deadliest Creature at Raven Hill? *Based on HC Kill count."
-TriviaBot_Questions[1]['Answers'][6] = {"Mor'Ladim"}
+TriviaBot_Questions[1]['Question'][6] = "What is the Deadliest Creature in Mulgore? (By HC Kill count)"
+TriviaBot_Questions[1]['Answers'][6] = {"Snagglespear"}
 TriviaBot_Questions[1]['Category'][6] = 1
 TriviaBot_Questions[1]['Points'][6] = "1"
 TriviaBot_Questions[1]['Hints'][6] = {}
@@ -199,7 +199,7 @@ TriviaBot_Questions[1]['Hints'][24] = {}
 
 -- Question 25
 TriviaBot_Questions[1]['Question'][25] = "What is the deadliest mob in the Wetlands?"
-TriviaBot_Questions[1]['Answers'][25] = {"Young Wetlands Crocodile"}
+TriviaBot_Questions[1]['Answers'][25] = {"Young Wetlands Crocolisk"}
 TriviaBot_Questions[1]['Category'][25] = 1
 TriviaBot_Questions[1]['Points'][25] = "1"
 TriviaBot_Questions[1]['Hints'][25] = {}
@@ -780,8 +780,14 @@ TriviaBot_Questions[1]['Category'][115] = 2
 TriviaBot_Questions[1]['Points'][115] = "1"
 TriviaBot_Questions[1]['Hints'][115] = {}
 
-TriviaBot_Questions[1]['Question'][116] = "The massive quest chain known as \"The Missing Diplomat\" revolves around the disappearance of which key Alliance figure in Vanilla WoW?"
-TriviaBot_Questions[1]['Answers'][116] = {"King Varian Wrynn", "Varian", "Varian Wrynn"}
+TriviaBot_Questions[1]['Question'][116] = "Rackmore's Treasure can be found in which zone?"
+TriviaBot_Questions[1]['Answers'][116] = {"Desolace"}
 TriviaBot_Questions[1]['Category'][116] = 2
 TriviaBot_Questions[1]['Points'][116] = "1"
 TriviaBot_Questions[1]['Hints'][116] = {}
+
+TriviaBot_Questions[1]['Question'][117] = "In which zone is the final quest of Cortello's Riddle completed?"
+TriviaBot_Questions[1]['Answers'][117] = {"The Hinterlands", "Hinterlands"}
+TriviaBot_Questions[1]['Category'][117] = 2
+TriviaBot_Questions[1]['Points'][117] = "1"
+TriviaBot_Questions[1]['Hints'][117] = {}
