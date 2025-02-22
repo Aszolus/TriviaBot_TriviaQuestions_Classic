@@ -81,20 +81,14 @@ TriviaBot_Questions[1]['Category'][8] = 1
 TriviaBot_Questions[1]['Points'][8] = "1"
 TriviaBot_Questions[1]['Hints'][8] = {}
 
-TriviaBot_Questions[1]['Question'][9] = "What mob is spawned from looting Blood of Heroes?"
-TriviaBot_Questions[1]['Answers'][9] = {"Fallen Hero", "fallen heroes"}
-TriviaBot_Questions[1]['Category'][9] = 1
-TriviaBot_Questions[1]['Points'][9] = "1"
-TriviaBot_Questions[1]['Hints'][9] = {}
-
 TriviaBot_Questions[1]['Question'][9] = "What elite mob is spawned from looting Blood of Heroes?"
 TriviaBot_Questions[1]['Answers'][9] = {"Fallen Hero", "fallen heroes"}
 TriviaBot_Questions[1]['Category'][9] = 1
 TriviaBot_Questions[1]['Points'][9] = "1"
 TriviaBot_Questions[1]['Hints'][9] = {}
 
-TriviaBot_Questions[1]['Question'][10] = "What elite mob is spawned from looting Blood of Heroes?"
-TriviaBot_Questions[1]['Answers'][10] = {"Fallen Hero", "fallen heroes"}
+TriviaBot_Questions[1]['Question'][10] = "What great white tiger does Hemet Nesingwary ask you to slay for the quest Big Game Hunter? (Full NPC name)"
+TriviaBot_Questions[1]['Answers'][10] = {"King Bangalash"}
 TriviaBot_Questions[1]['Category'][10] = 1
 TriviaBot_Questions[1]['Points'][10] = "1"
 TriviaBot_Questions[1]['Hints'][10] = {}
@@ -420,12 +414,6 @@ TriviaBot_Questions[1]['Category'][61] = 2
 TriviaBot_Questions[1]['Points'][61] = "1"
 TriviaBot_Questions[1]['Hints'][61] = {}
 
-TriviaBot_Questions[1]['Question'][61] = "What is the name of the river which separates Elwynn Forest and Duskwood?"
-TriviaBot_Questions[1]['Answers'][61] = {"The Nazferiti River", "Nazferiti"}
-TriviaBot_Questions[1]['Category'][61] = 2
-TriviaBot_Questions[1]['Points'][61] = "1"
-TriviaBot_Questions[1]['Hints'][61] = {}
-
 TriviaBot_Questions[1]['Question'][61] = "What is the name of the Rare spider which can spawn in the Jasperlode Mine?"
 TriviaBot_Questions[1]['Answers'][61] = {"Mother Fang"}
 TriviaBot_Questions[1]['Category'][61] = 2
@@ -438,20 +426,8 @@ TriviaBot_Questions[1]['Category'][62] = 2
 TriviaBot_Questions[1]['Points'][62] = "1"
 TriviaBot_Questions[1]['Hints'][62] = {}
 
-TriviaBot_Questions[1]['Question'][62] = "How many siege weapons are just outside the front gates of Stormwind?"
-TriviaBot_Questions[1]['Answers'][62] = {"Two", "2"}
-TriviaBot_Questions[1]['Category'][62] = 2
-TriviaBot_Questions[1]['Points'][62] = "1"
-TriviaBot_Questions[1]['Hints'][62] = {}
-
 TriviaBot_Questions[1]['Question'][63] = "When entering Stormwind on foot from Elwynn forest, what is the first named area of Stormwind you enter?"
 TriviaBot_Questions[1]['Answers'][63] = {"The Valley of Heroes", "Valley of Heroes"}
-TriviaBot_Questions[1]['Category'][63] = 2
-TriviaBot_Questions[1]['Points'][63] = "1"
-TriviaBot_Questions[1]['Hints'][63] = {}
-
-TriviaBot_Questions[1]['Question'][63] = "When entering the Trade District on foot from the valley of heroes, what is the name (exactly as printed on the sign) of the first shop on your right?"
-TriviaBot_Questions[1]['Answers'][63] = {"Trias' Cheese"}
 TriviaBot_Questions[1]['Category'][63] = 2
 TriviaBot_Questions[1]['Points'][63] = "1"
 TriviaBot_Questions[1]['Hints'][63] = {}
@@ -774,8 +750,8 @@ TriviaBot_Questions[1]['Category'][114] = 2
 TriviaBot_Questions[1]['Points'][114] = "1"
 TriviaBot_Questions[1]['Hints'][114] = {}
 
-TriviaBot_Questions[1]['Question'][115] = "The massive quest chain known as \"The Missing Diplomat\" revolves around the disappearance of which key Alliance figure in Vanilla WoW?"
-TriviaBot_Questions[1]['Answers'][115] = {"King Varian Wrynn", "Varian", "Varian Wrynn"}
+TriviaBot_Questions[1]['Question'][115] = "Which sprawling quest chain known revolves around investigating the disappearance of the King of Stormwind?"
+TriviaBot_Questions[1]['Answers'][115] = {"The Missing Diplomat"}
 TriviaBot_Questions[1]['Category'][115] = 2
 TriviaBot_Questions[1]['Points'][115] = "1"
 TriviaBot_Questions[1]['Hints'][115] = {}
@@ -791,3 +767,21 @@ TriviaBot_Questions[1]['Answers'][117] = {"The Hinterlands", "Hinterlands"}
 TriviaBot_Questions[1]['Category'][117] = 2
 TriviaBot_Questions[1]['Points'][117] = "1"
 TriviaBot_Questions[1]['Hints'][117] = {}
+
+TriviaBot_Questions[1]['Question'][118] = "What is the name of the Inn/Tavern located in Brill?"
+TriviaBot_Questions[1]['Answers'][118] = {"Gallow's End Tavern", "Gallow's End"}
+TriviaBot_Questions[1]['Category'][118] = 3
+TriviaBot_Questions[1]['Points'][118] = "1"
+TriviaBot_Questions[1]['Hints'][118] = {}
+
+TriviaBot_Questions[1]['Question'][119] = "This server (Doomhowl) is named after a boss located in which dungeon or raid?"
+TriviaBot_Questions[1]['Answers'][119] = {"Blackrock Spire", "lbrs", "Lower blackrock spire"}
+TriviaBot_Questions[1]['Category'][119] = 3
+TriviaBot_Questions[1]['Points'][119] = "1"
+TriviaBot_Questions[1]['Hints'][119] = {}
+
+TriviaBot_Questions[1]['Question'][120] = "Many mage quets can be found from which NPC in her hut in Duskwallow Marsh"
+TriviaBot_Questions[1]['Answers'][120] = {"Tabetha"}
+TriviaBot_Questions[1]['Category'][120] = 3
+TriviaBot_Questions[1]['Points'][120] = "1"
+TriviaBot_Questions[1]['Hints'][120] = {}
