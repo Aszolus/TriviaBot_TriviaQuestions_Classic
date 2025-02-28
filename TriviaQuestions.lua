@@ -5,8 +5,7 @@
 
 local _, TriviaBot_Questions = ...
 
--- We'll store everything in TriviaBot_Questions[1],
--- but you can choose a different index if you like.
+-- Store everything in TriviaBot_Questions[1]
 
 TriviaBot_Questions[1] = {
   ['Categories'] = {},
@@ -19,7 +18,7 @@ TriviaBot_Questions[1] = {
 
 -- Basic info about the set
 TriviaBot_Questions[1]['Title']       = "Deadliest of Azeroth"
-TriviaBot_Questions[1]['Description'] = "Questionset about the different deadly creatures a player faces in Hardcore WoW"
+TriviaBot_Questions[1]['Description'] = "Questionset about the different deadly creatures a player faces in Hardcore WoW and about Classic"
 TriviaBot_Questions[1]['Author']      = "Aszolus-Doomhowl"
 
 -- Add at least one category
