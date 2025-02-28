@@ -822,9 +822,8 @@ TriviaBot_Questions[1]['Category'][126] = 1
 TriviaBot_Questions[1]['Points'][126] = "1"
 TriviaBot_Questions[1]['Hints'][126] = {}
 
-
-TriviaBot_Questions[1]['Question'][127] = "What is the deadliest thing in Ragefire Chasm (by HC kill count)?"
-TriviaBot_Questions[1]['Answers'][127] = {"Lava"}
+TriviaBot_Questions[1]['Question'][127] = "Who is the Warchief of the \"Dark Horde?\""
+TriviaBot_Questions[1]['Answers'][127] = {"Rend Blackhand", "Dal'rend Blackhand", "Warchief Rend Blackhand", "Rend"}
 TriviaBot_Questions[1]['Category'][127] = 1
 TriviaBot_Questions[1]['Points'][127] = "1"
 TriviaBot_Questions[1]['Hints'][127] = {}
@@ -1014,3 +1013,9 @@ TriviaBot_Questions[1]['Answers'][158] = {"Hin Dinburg", "Snurk Bucksquick", "Fr
 TriviaBot_Questions[1]['Category'][158] = 4
 TriviaBot_Questions[1]['Points'][158] = "1"
 TriviaBot_Questions[1]['Hints'][158] = {}
+
+TriviaBot_Questions[1]['Question'][159] = "In Hardcore WoW, which passive Holy Priest talent can only be triggered once?"
+TriviaBot_Questions[1]['Answers'][159] = {"Spirit of Redemption"}
+TriviaBot_Questions[1]['Category'][159] = 4
+TriviaBot_Questions[1]['Points'][159] = "1"
+TriviaBot_Questions[1]['Hints'][159] = {}
