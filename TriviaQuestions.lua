@@ -26,6 +26,7 @@ TriviaBot_Questions[1]['Author']      = "Aszolus-Doomhowl"
 TriviaBot_Questions[1]['Categories'][1] = "Deadly NPCs, places, and things"
 TriviaBot_Questions[1]['Categories'][2] = "Alliance Trivia"
 TriviaBot_Questions[1]['Categories'][3] = "Horde Trivia"
+TriviaBot_Questions[1]['Categories'][3] = "Deep Lore"
 
 TriviaBot_Questions[1]['Question'][1] = "What is the Deadliest Creature in Duskwood? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][1] = {"Stitches"}
@@ -780,8 +781,237 @@ TriviaBot_Questions[1]['Category'][119] = 3
 TriviaBot_Questions[1]['Points'][119] = "1"
 TriviaBot_Questions[1]['Hints'][119] = {}
 
-TriviaBot_Questions[1]['Question'][120] = "Many mage quets can be found from which NPC in her hut in Duskwallow Marsh"
+TriviaBot_Questions[1]['Question'][120] = "Many mage quests can be found from which NPC in her hut in Duskwallow Marsh"
 TriviaBot_Questions[1]['Answers'][120] = {"Tabetha"}
 TriviaBot_Questions[1]['Category'][120] = 3
 TriviaBot_Questions[1]['Points'][120] = "1"
 TriviaBot_Questions[1]['Hints'][120] = {}
+
+TriviaBot_Questions[1]['Question'][121] = "Orc NPC Quote: May your blades _____ ____?"
+TriviaBot_Questions[1]['Answers'][121] = {"never dull"}
+TriviaBot_Questions[1]['Category'][121] = 3
+TriviaBot_Questions[1]['Points'][121] = "1"
+TriviaBot_Questions[1]['Hints'][121] = {}
+
+TriviaBot_Questions[1]['Question'][122] = "The Deadmines entrance is located in what town in Westfall?"
+TriviaBot_Questions[1]['Answers'][122] = {"Moonbrook"}
+TriviaBot_Questions[1]['Category'][122] = 2
+TriviaBot_Questions[1]['Points'][122] = "1"
+TriviaBot_Questions[1]['Hints'][122] = {}
+
+TriviaBot_Questions[1]['Question'][123] = "True or False: The onyxia buff drops on all layers."
+TriviaBot_Questions[1]['Answers'][123] = {"True"}
+TriviaBot_Questions[1]['Category'][123] = 2
+TriviaBot_Questions[1]['Points'][123] = "1"
+TriviaBot_Questions[1]['Hints'][123] = {}
+
+TriviaBot_Questions[1]['Question'][124] = "An extremely deadly rare elite devilsaur roams the western side of Un'goro Crater.  What is his name?"
+TriviaBot_Questions[1]['Answers'][124] = {"King Mosh"}
+TriviaBot_Questions[1]['Category'][124] = 2
+TriviaBot_Questions[1]['Points'][124] = "1"
+TriviaBot_Questions[1]['Hints'][124] = {}
+
+TriviaBot_Questions[1]['Question'][125] = "A neutral Auction House, run by goblins and available to both the Horde and the Alliance, can be found in Ratchet, Booty Bay, and which other town?"
+TriviaBot_Questions[1]['Answers'][125] = {"Gadgetzan"}
+TriviaBot_Questions[1]['Category'][125] = 1
+TriviaBot_Questions[1]['Points'][125] = "1"
+TriviaBot_Questions[1]['Hints'][125] = {}
+
+TriviaBot_Questions[1]['Question'][126] = "What is the deadliest thing in Ragefire Chasm (by HC kill count)?"
+TriviaBot_Questions[1]['Answers'][126] = {"Lava"}
+TriviaBot_Questions[1]['Category'][126] = 1
+TriviaBot_Questions[1]['Points'][126] = "1"
+TriviaBot_Questions[1]['Hints'][126] = {}
+
+
+TriviaBot_Questions[1]['Question'][127] = "What is the deadliest thing in Ragefire Chasm (by HC kill count)?"
+TriviaBot_Questions[1]['Answers'][127] = {"Lava"}
+TriviaBot_Questions[1]['Category'][127] = 1
+TriviaBot_Questions[1]['Points'][127] = "1"
+TriviaBot_Questions[1]['Hints'][127] = {}
+
+TriviaBot_Questions[1]['Question'][128] = "Who was the last guardian of Tirasfal?"
+TriviaBot_Questions[1]['Answers'][128] = {"Medivh", "Magus Medivh"}
+TriviaBot_Questions[1]['Category'][128] = 4
+TriviaBot_Questions[1]['Points'][128] = "1"
+TriviaBot_Questions[1]['Hints'][128] = {}
+
+TriviaBot_Questions[1]['Question'][129] = "Which blood god are the trolls in Zul'Gurub attempting to resurrect?"
+TriviaBot_Questions[1]['Answers'][129] = {"Hakkar", "Hakkar the Soulflayer", "Hakkar, the Soulflayer"}
+TriviaBot_Questions[1]['Category'][129] = 4
+TriviaBot_Questions[1]['Points'][129] = "1"
+TriviaBot_Questions[1]['Hints'][129] = {}
+
+TriviaBot_Questions[1]['Question'][130] = "Who originally wielding Ashbringer?"
+TriviaBot_Questions[1]['Answers'][130] = {"Alexandros Mograine", "Mograine", "Scarlet Highlord Mograine", "Highlord Mograine", "Highlord Alexandros Mograine"}
+TriviaBot_Questions[1]['Category'][130] = 4
+TriviaBot_Questions[1]['Points'][130] = "1"
+TriviaBot_Questions[1]['Hints'][130] = {}
+
+TriviaBot_Questions[1]['Question'][131] = "Name the fictional legendary sword used in a South Park episode to defeat an unspeakably powerful Alliance griefer."
+TriviaBot_Questions[1]['Answers'][131] = {"The Sword of a Thousand Truths", "Sword of a Thousand Truths"}
+TriviaBot_Questions[1]['Category'][131] = 4
+TriviaBot_Questions[1]['Points'][131] = "1"
+TriviaBot_Questions[1]['Hints'][131] = {}
+
+TriviaBot_Questions[1]['Question'][132] = "During the War of Three Hammers, Emperor Thaurissan sought to overpower the other dwarf clans by invoking a ritual.  This ritual inadvertently summoned what being?"
+TriviaBot_Questions[1]['Answers'][132] = {"Ragnaros", "Ragnaros, The Firelord"}
+TriviaBot_Questions[1]['Category'][132] = 4
+TriviaBot_Questions[1]['Points'][132] = "1"
+TriviaBot_Questions[1]['Hints'][132] = {}
+
+TriviaBot_Questions[1]['Question'][133] = "Which Dalaran archmage, desperate for a weapon against the Scourge, inadvertantly unleashed worgen into Azeroth?"
+TriviaBot_Questions[1]['Answers'][133] = {"Arugal", "Archmage Arugal"}
+TriviaBot_Questions[1]['Category'][133] = 4
+TriviaBot_Questions[1]['Points'][133] = "1"
+TriviaBot_Questions[1]['Hints'][133] = {}
+
+TriviaBot_Questions[1]['Question'][134] = "What percentage of it's normal damage does a hunter's pet do when it is unhappy?"
+TriviaBot_Questions[1]['Answers'][134] = {"75", "75%", "seventy-five", "seventy-five percent", "seventy five"}
+TriviaBot_Questions[1]['Category'][134] = 4
+TriviaBot_Questions[1]['Points'][134] = "1"
+TriviaBot_Questions[1]['Hints'][134] = {}
+
+TriviaBot_Questions[1]['Question'][135] = "The Twilight Grove in Duskwood is said to contain a portal to where?"
+TriviaBot_Questions[1]['Answers'][135] = {"The Emerald Dream", "Emerald Dream"}
+TriviaBot_Questions[1]['Category'][135] = 4
+TriviaBot_Questions[1]['Points'][135] = "1"
+TriviaBot_Questions[1]['Hints'][135] = {}
+
+TriviaBot_Questions[1]['Question'][136] = "Caer Darrow, Brill, Southshore, and Tarren Mill previously belonged to which noble family?"
+TriviaBot_Questions[1]['Answers'][136] = {"Barov", "The Barov Family", "The Barovs"}
+TriviaBot_Questions[1]['Category'][136] = 4
+TriviaBot_Questions[1]['Points'][136] = "1"
+TriviaBot_Questions[1]['Hints'][136] = {}
+
+TriviaBot_Questions[1]['Question'][137] = "High Tinker Mekkatorque sanctioned the use of radiation in a desparate attempt to drive out what race of invader of Gnomeregan?"
+TriviaBot_Questions[1]['Answers'][137] = {"Trogg", "Troggs", "the troggs"}
+TriviaBot_Questions[1]['Category'][137] = 4
+TriviaBot_Questions[1]['Points'][137] = "1"
+TriviaBot_Questions[1]['Hints'][137] = {}
+
+TriviaBot_Questions[1]['Question'][138] = "Which faction in Classic WoW must you be exalted with to acquire the Winterspring Frostsaber mount?"
+TriviaBot_Questions[1]['Answers'][138] = {"Wintersaber Trainers"}
+TriviaBot_Questions[1]['Category'][138] = 4
+TriviaBot_Questions[1]['Points'][138] = "1"
+TriviaBot_Questions[1]['Hints'][138] = {}
+
+TriviaBot_Questions[1]['Question'][139] = "Which organization is dedicated to combating the scourge in the Plaguelands?"
+TriviaBot_Questions[1]['Answers'][139] = {"The Argent Dawn", "Argent Dawn"}
+TriviaBot_Questions[1]['Category'][139] = 4
+TriviaBot_Questions[1]['Points'][139] = "1"
+TriviaBot_Questions[1]['Hints'][139] = {}
+
+TriviaBot_Questions[1]['Question'][140] = "Which epic weapon is the reward of the quest chain involving the book 'Foror's Compendium of Dragon Slaying?'"
+TriviaBot_Questions[1]['Answers'][140] = {"Quel'Serrar"}
+TriviaBot_Questions[1]['Category'][140] = 4
+TriviaBot_Questions[1]['Points'][140] = "1"
+TriviaBot_Questions[1]['Hints'][140] = {}
+
+TriviaBot_Questions[1]['Question'][141] = "Which troll tribe primarily inhabits Zul'Gurub?"
+TriviaBot_Questions[1]['Answers'][141] = {"Gurubashi"}
+TriviaBot_Questions[1]['Category'][141] = 4
+TriviaBot_Questions[1]['Points'][141] = "1"
+TriviaBot_Questions[1]['Hints'][141] = {}
+
+TriviaBot_Questions[1]['Question'][142] = "How many resource points are needed to win an Arathi Basin match in Classic WoW?"
+TriviaBot_Questions[1]['Answers'][142] = {"2000"}
+TriviaBot_Questions[1]['Category'][142] = 4
+TriviaBot_Questions[1]['Points'][142] = "1"
+TriviaBot_Questions[1]['Hints'][142] = {}
+
+TriviaBot_Questions[1]['Question'][143] = "Then-Archmage Kel'Thuzad created an organization of living beings who serve the Lich King?  What is it's name?"
+TriviaBot_Questions[1]['Answers'][143] = {"Cult of the Damned", "The cult of the damned"}
+TriviaBot_Questions[1]['Category'][143] = 4
+TriviaBot_Questions[1]['Points'][143] = "1"
+TriviaBot_Questions[1]['Hints'][143] = {"It's a cult"}
+
+TriviaBot_Questions[1]['Question'][144] = "Which black dragon disguised herself as Lady Katrana Prestor to manipulate Stormwind's politics from within?"
+TriviaBot_Questions[1]['Answers'][144] = {"Onyxia"}
+TriviaBot_Questions[1]['Category'][144] = 4
+TriviaBot_Questions[1]['Points'][144] = "1"
+TriviaBot_Questions[1]['Hints'][144] = {}
+
+TriviaBot_Questions[1]['Question'][145] = "Name one of the four corrupted Green Dragons that served as world bosses in Classic WoW, alongside Emeriss, Lethon, and Taerar."
+TriviaBot_Questions[1]['Answers'][145] = {"Ysondre"}
+TriviaBot_Questions[1]['Category'][145] = 4
+TriviaBot_Questions[1]['Points'][145] = "1"
+TriviaBot_Questions[1]['Hints'][145] = {}
+
+TriviaBot_Questions[1]['Question'][146] = "Which legendary item can be crafted from sulfuron ingots and a rare drop in Molten Core?"
+TriviaBot_Questions[1]['Answers'][146] = {"Sulfuras, Hand of Ragnaros", "Sulfuras"}
+TriviaBot_Questions[1]['Category'][146] = 4
+TriviaBot_Questions[1]['Points'][146] = "1"
+TriviaBot_Questions[1]['Hints'][146] = {}
+
+TriviaBot_Questions[1]['Question'][147] = "Who is the infamous necromancer presiding over Scholomance, serving as the final boss of the instance? (full npc name)"
+TriviaBot_Questions[1]['Answers'][147] = {"Darkmaster Gandling"}
+TriviaBot_Questions[1]['Category'][147] = 4
+TriviaBot_Questions[1]['Points'][147] = "1"
+TriviaBot_Questions[1]['Hints'][147] = {}
+
+TriviaBot_Questions[1]['Question'][148] = "Name the ability: \"Gather information about the target beast.  The tooltip will display damage, health, armor, any special resistances, and diet.\""
+TriviaBot_Questions[1]['Answers'][148] = {"Beast Lore"}
+TriviaBot_Questions[1]['Category'][148] = 4
+TriviaBot_Questions[1]['Points'][148] = "1"
+TriviaBot_Questions[1]['Hints'][148] = {}
+
+TriviaBot_Questions[1]['Question'][149] = "What is the highest rank of a hunter pet's loyalty?"
+TriviaBot_Questions[1]['Answers'][149] = {"Best Friend"}
+TriviaBot_Questions[1]['Category'][149] = 4
+TriviaBot_Questions[1]['Points'][149] = "1"
+TriviaBot_Questions[1]['Hints'][149] = {}
+
+TriviaBot_Questions[1]['Question'][150] = "Name the weapon: \"Whomsoever takes up this blade shall wield power eternal. Just as the blade rends flesh, so must power scar the spirit.\""
+TriviaBot_Questions[1]['Answers'][150] = {"Frostmourne"}
+TriviaBot_Questions[1]['Category'][150] = 4
+TriviaBot_Questions[1]['Points'][150] = "1"
+TriviaBot_Questions[1]['Hints'][150] = {}
+
+TriviaBot_Questions[1]['Question'][151] = "What is the name of the weapon, located in gnomeregan, is commonly farmed by Feral Druids?"
+TriviaBot_Questions[1]['Answers'][151] = {"Manual Crowd Pummeler"}
+TriviaBot_Questions[1]['Category'][151] = 4
+TriviaBot_Questions[1]['Points'][151] = "1"
+TriviaBot_Questions[1]['Hints'][151] = {}
+
+TriviaBot_Questions[1]['Question'][152] = "In Classic WoW, what is the name of the corrupted Ashbringer wielder, whom Arthas transformed into a death knight?"
+TriviaBot_Questions[1]['Answers'][152] = {"Highlord Mograine", "Alexandros Mograine", "Highlore Mograine <The Ashbringer>", "Highlore Mograine<The Ashbringer>"}
+TriviaBot_Questions[1]['Category'][152] = 4
+TriviaBot_Questions[1]['Points'][152] = "1"
+TriviaBot_Questions[1]['Hints'][152] = {}
+
+TriviaBot_Questions[1]['Question'][153] = "Which city did Arthas purge to prevent its citizens from turning into undead?"
+TriviaBot_Questions[1]['Answers'][153] = {"Stratholme"}
+TriviaBot_Questions[1]['Category'][153] = 4
+TriviaBot_Questions[1]['Points'][153] = "1"
+TriviaBot_Questions[1]['Hints'][153] = {}
+
+TriviaBot_Questions[1]['Question'][154] = "In the Blasted Lands, what is the rarest type of crystal that can be turned in to Kum'isha the Collector for rare or even epic rewards?"
+TriviaBot_Questions[1]['Answers'][154] = {"Flawless Draenethyst Sphere"}
+TriviaBot_Questions[1]['Category'][154] = 4
+TriviaBot_Questions[1]['Points'][154] = "1"
+TriviaBot_Questions[1]['Hints'][154] = {"The crystal is a sphere."}
+
+TriviaBot_Questions[1]['Question'][155] = "The upper class of which ogre clan can be found in Dire Maul?"
+TriviaBot_Questions[1]['Answers'][155] = {"Gordunni", "The Gordunni"}
+TriviaBot_Questions[1]['Category'][155] = 4
+TriviaBot_Questions[1]['Points'][155] = "1"
+TriviaBot_Questions[1]['Hints'][155] = {"The crystal is a sphere."}
+
+TriviaBot_Questions[1]['Question'][156] = "Which dungeon was originally a sacred burial site for the centaur and the tomb of Zaetar, son of Cenarius?"
+TriviaBot_Questions[1]['Answers'][156] = {"Maraudon"}
+TriviaBot_Questions[1]['Category'][156] = 4
+TriviaBot_Questions[1]['Points'][156] = "1"
+TriviaBot_Questions[1]['Hints'][156] = {}
+
+TriviaBot_Questions[1]['Question'][157] = "What is the name of the epic fire resistance cape crafted specifically for Molten Core?"
+TriviaBot_Questions[1]['Answers'][157] = {"Onyxia Scale Cloak"}
+TriviaBot_Questions[1]['Category'][157] = 4
+TriviaBot_Questions[1]['Points'][157] = "1"
+TriviaBot_Questions[1]['Hints'][157] = {}
+
+TriviaBot_Questions[1]['Question'][158] = "Name any one Zepplin Master."
+TriviaBot_Questions[1]['Answers'][158] = {"Hin Dinburg", "Snurk Bucksquick", "Frezza", "Zapetta", "Squibby Overspeck", "Nez'raz"}
+TriviaBot_Questions[1]['Category'][158] = 4
+TriviaBot_Questions[1]['Points'][158] = "1"
+TriviaBot_Questions[1]['Hints'][158] = {}
