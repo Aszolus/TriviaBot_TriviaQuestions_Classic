@@ -624,7 +624,7 @@ TriviaBot_Questions[1]['Category'][94] = 3
 TriviaBot_Questions[1]['Points'][94] = "1"
 TriviaBot_Questions[1]['Hints'][94] = {}
 
-TriviaBot_Questions[1]['Question'][95] = "The Wailing Caverns instance in the Northern Barrens features a quest to help awaken a tauren druid from a twisted dream. Name that druid."
+TriviaBot_Questions[1]['Question'][95] = "The Wailing Caverns instance in the Northern Barrens features a quest to help awaken a druid from a twisted dream. Name that druid."
 TriviaBot_Questions[1]['Answers'][95] = {"Naralex"}
 TriviaBot_Questions[1]['Category'][95] = 3
 TriviaBot_Questions[1]['Points'][95] = "1"
@@ -1010,7 +1010,7 @@ TriviaBot_Questions[1]['Hints'][157] = {}
 
 TriviaBot_Questions[1]['Question'][158] = "Name any one Zepplin Master."
 TriviaBot_Questions[1]['Answers'][158] = {"Hin Dinburg", "Snurk Bucksquick", "Frezza", "Zapetta", "Squibby Overspeck", "Nez'raz"}
-TriviaBot_Questions[1]['Category'][158] = 4
+TriviaBot_Questions[1]['Category'][158] = 3
 TriviaBot_Questions[1]['Points'][158] = "1"
 TriviaBot_Questions[1]['Hints'][158] = {}
 
@@ -1019,3 +1019,27 @@ TriviaBot_Questions[1]['Answers'][159] = {"Spirit of Redemption"}
 TriviaBot_Questions[1]['Category'][159] = 4
 TriviaBot_Questions[1]['Points'][159] = "1"
 TriviaBot_Questions[1]['Hints'][159] = {}
+
+TriviaBot_Questions[1]['Question'][160] = "What is the name of the largest island in Silverpine Forest?"
+TriviaBot_Questions[1]['Answers'][160] = {"Fenris Isle"}
+TriviaBot_Questions[1]['Category'][160] = 3
+TriviaBot_Questions[1]['Points'][160] = "1"
+TriviaBot_Questions[1]['Hints'][160] = {}
+
+TriviaBot_Questions[1]['Question'][161] = "What is the name of the collection of islands in Silverpine Forest?"
+TriviaBot_Questions[1]['Answers'][161] = {"Dawning Isles", "The Dawning Isles"}
+TriviaBot_Questions[1]['Category'][161] = 3
+TriviaBot_Questions[1]['Points'][161] = "1"
+TriviaBot_Questions[1]['Hints'][161] = {}
+
+TriviaBot_Questions[1]['Question'][162] = "What is the name of the lake in Silverpine Forest?"
+TriviaBot_Questions[1]['Answers'][162] = {"Lake Lordamere", "Lordamere Lake", "Lordamere"}
+TriviaBot_Questions[1]['Category'][162] = 3
+TriviaBot_Questions[1]['Points'][162] = "1"
+TriviaBot_Questions[1]['Hints'][162] = {}
+
+TriviaBot_Questions[1]['Question'][163] = "The quest Assault on Fenris Isle asks horde characters to collect which NPC's head? (Full name)"
+TriviaBot_Questions[1]['Answers'][163] = {"Thule Ravenclaw"}
+TriviaBot_Questions[1]['Category'][163] = 3
+TriviaBot_Questions[1]['Points'][163] = "1"
+TriviaBot_Questions[1]['Hints'][163] = {}
