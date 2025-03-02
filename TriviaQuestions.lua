@@ -25,7 +25,7 @@ TriviaBot_Questions[1]['Author']      = "Aszolus-Doomhowl"
 TriviaBot_Questions[1]['Categories'][1] = "Deadly NPCs, places, and things"
 TriviaBot_Questions[1]['Categories'][2] = "Alliance Trivia"
 TriviaBot_Questions[1]['Categories'][3] = "Horde Trivia"
-TriviaBot_Questions[1]['Categories'][3] = "Deep Lore"
+TriviaBot_Questions[1]['Categories'][4] = "Deep Lore"
 
 TriviaBot_Questions[1]['Question'][1] = "What is the Deadliest Creature in Duskwood? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][1] = {"Stitches"}
