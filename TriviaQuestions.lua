@@ -51,12 +51,6 @@ TriviaBot_Questions[1]['Category'][4] = 1
 TriviaBot_Questions[1]['Points'][4] = "1"
 TriviaBot_Questions[1]['Hints'][4] = {"They kill mostly mages."}
 
-TriviaBot_Questions[1]['Question'][4] = "What is the Deadliest Creature in Stormwind? *Based on HC Kill count."
-TriviaBot_Questions[1]['Answers'][4] = {"Rift Spawn"}
-TriviaBot_Questions[1]['Category'][4] = 1
-TriviaBot_Questions[1]['Points'][4] = "1"
-TriviaBot_Questions[1]['Hints'][4] = {"They kill mostly mages."}
-
 TriviaBot_Questions[1]['Question'][5] = "What is the Deadliest Creature at Raven Hill? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][5] = {"Mor'Ladim"}
 TriviaBot_Questions[1]['Category'][5] = 1
@@ -109,7 +103,7 @@ TriviaBot_Questions[1]['Hints'][12] = {"He is a corrupted black dragon and the s
 
 -- Question 13
 TriviaBot_Questions[1]['Question'][13] = "Boss Quote: \"Now You're Making me Angry!\" "
-TriviaBot_Questions[1]['Answers'][13] = {"Mr. Smite", "Mr. Smite<The Ship's First Mate>"}
+TriviaBot_Questions[1]['Answers'][13] = {"Mr. Smite", "Mr. Smite<The Ship's First Mate>", "mr smite"}
 TriviaBot_Questions[1]['Category'][13] = 1
 TriviaBot_Questions[1]['Points'][13] = "1"
 TriviaBot_Questions[1]['Hints'][13] = {"Located in the Deadmines dungeon."}
@@ -123,7 +117,7 @@ TriviaBot_Questions[1]['Hints'][14] = {"His name in life was Helcular."}
 
 -- Question 15
 TriviaBot_Questions[1]['Question'][15] = "What is the most common way to die in HC WoW?"
-TriviaBot_Questions[1]['Answers'][15] = {"Falling"}
+TriviaBot_Questions[1]['Answers'][15] = {"Falling", "fall damage"}
 TriviaBot_Questions[1]['Category'][15] = 1
 TriviaBot_Questions[1]['Points'][15] = "1"
 TriviaBot_Questions[1]['Hints'][15] = {"There's no achievement for it Classic."}
@@ -277,7 +271,7 @@ TriviaBot_Questions[1]['Points'][37] = "1"
 TriviaBot_Questions[1]['Hints'][37] = {}
 
 TriviaBot_Questions[1]['Question'][38] = "What is the most common way to die in Thunder Bluff"
-TriviaBot_Questions[1]['Answers'][38] = {"Falling"}
+TriviaBot_Questions[1]['Answers'][38] = {"Falling", "Fall damage"}
 TriviaBot_Questions[1]['Category'][38] = 1
 TriviaBot_Questions[1]['Points'][38] = "1"
 TriviaBot_Questions[1]['Hints'][38] = {}
@@ -1043,3 +1037,15 @@ TriviaBot_Questions[1]['Answers'][163] = {"Thule Ravenclaw"}
 TriviaBot_Questions[1]['Category'][163] = 3
 TriviaBot_Questions[1]['Points'][163] = "1"
 TriviaBot_Questions[1]['Hints'][163] = {}
+
+TriviaBot_Questions[1]['Question'][164] = "What is the name of the Inn in Goldshire"
+TriviaBot_Questions[1]['Answers'][164] = {"Lion's Pride Inn", "Lion's Pride"}
+TriviaBot_Questions[1]['Category'][164] = 2
+TriviaBot_Questions[1]['Points'][164] = "1"
+TriviaBot_Questions[1]['Hints'][164] = {}
+
+TriviaBot_Questions[1]['Question'][165] = "What tool is required to cast Windfury Totem?"
+TriviaBot_Questions[1]['Answers'][165] = {"Air Totem"}
+TriviaBot_Questions[1]['Category'][165] = 3
+TriviaBot_Questions[1]['Points'][165] = "1"
+TriviaBot_Questions[1]['Hints'][165] = {}
