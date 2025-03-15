@@ -325,10 +325,10 @@ TriviaBot_Questions[1]['Points'][47] = "1"
 TriviaBot_Questions[1]['Hints'][47] = {"He's a Stonefield"}
 
 TriviaBot_Questions[1]['Question'][48] = "William Pestle creates an invisibility potion to unite two lovers from rival farmsteads.  What item does he have you collect in order to make it?"
-TriviaBot_Questions[1]['Answers'][48] = {"Crystal Kelp Frond", "Crystal Kelp", "Kelp"}
+TriviaBot_Questions[1]['Answers'][48] = {"Crystal Kelp Frond", "Crystal Kelp"}
 TriviaBot_Questions[1]['Category'][48] = 2
 TriviaBot_Questions[1]['Points'][48] = "1"
-TriviaBot_Questions[1]['Hints'][48] = {}
+TriviaBot_Questions[1]['Hints'][48] = {"______ ____ Frond"}
 
 TriviaBot_Questions[1]['Question'][49] = "In which mine does Goldtooth reside?"
 TriviaBot_Questions[1]['Answers'][49] = {"Fargodeep", "Fargodeep mine"}
@@ -349,7 +349,7 @@ TriviaBot_Questions[1]['Points'][51] = "1"
 TriviaBot_Questions[1]['Hints'][51] = {}
 
 TriviaBot_Questions[1]['Question'][52] = "In Northshire, what type of fruit is Millie's Harvest?"
-TriviaBot_Questions[1]['Answers'][52] = {"grapes"}
+TriviaBot_Questions[1]['Answers'][52] = {"grapes", "grape"}
 TriviaBot_Questions[1]['Category'][52] = 2
 TriviaBot_Questions[1]['Points'][52] = "1"
 TriviaBot_Questions[1]['Hints'][52] = {}
@@ -540,8 +540,8 @@ TriviaBot_Questions[1]['Category'][82] = 3
 TriviaBot_Questions[1]['Points'][82] = "1"
 TriviaBot_Questions[1]['Hints'][82] = {}
 
-TriviaBot_Questions[1]['Question'][83] = "Which wing of the Undercity is Lady Sylvanas Windrunner <Banshee Queen> located?"
-TriviaBot_Questions[1]['Answers'][83] = {"The apothecarium", "apothecarium"}
+TriviaBot_Questions[1]['Question'][83] = "What other boss level NPC is located in the Royal Quarter alongside Sylvanas Windrunner <Banshee Queen>?"
+TriviaBot_Questions[1]['Answers'][83] = {"Varimathras"}
 TriviaBot_Questions[1]['Category'][83] = 3
 TriviaBot_Questions[1]['Points'][83] = "1"
 TriviaBot_Questions[1]['Hints'][83] = {}
@@ -570,8 +570,8 @@ TriviaBot_Questions[1]['Category'][87] = 3
 TriviaBot_Questions[1]['Points'][87] = "1"
 TriviaBot_Questions[1]['Hints'][87] = {}
 
-TriviaBot_Questions[1]['Question'][88] = "True or False\\: A quest in the thousand needles asks the player to leap from a plateau at a deadly height"
-TriviaBot_Questions[1]['Answers'][88] = {"true"}
+TriviaBot_Questions[1]['Question'][88] = "Name the quest in thousand needles which asks the player to leap from a plateau at a deadly height"
+TriviaBot_Questions[1]['Answers'][88] = {"Test of Faith"}
 TriviaBot_Questions[1]['Category'][88] = 3
 TriviaBot_Questions[1]['Points'][88] = "1"
 TriviaBot_Questions[1]['Hints'][88] = {}
@@ -979,7 +979,7 @@ TriviaBot_Questions[1]['Points'][153] = "1"
 TriviaBot_Questions[1]['Hints'][153] = {}
 
 TriviaBot_Questions[1]['Question'][154] = "In the Blasted Lands, what is the rarest type of crystal that can be turned in to Kum'isha the Collector for rare or even epic rewards?"
-TriviaBot_Questions[1]['Answers'][154] = {"Flawless Draenethyst Sphere"}
+TriviaBot_Questions[1]['Answers'][154] = {"Flawless Draenethyst Sphere", "Flawless Draenethyst"}
 TriviaBot_Questions[1]['Category'][154] = 4
 TriviaBot_Questions[1]['Points'][154] = "1"
 TriviaBot_Questions[1]['Hints'][154] = {"The crystal is a sphere."}
@@ -1026,7 +1026,7 @@ TriviaBot_Questions[1]['Category'][161] = 3
 TriviaBot_Questions[1]['Points'][161] = "1"
 TriviaBot_Questions[1]['Hints'][161] = {}
 
-TriviaBot_Questions[1]['Question'][162] = "What is the name of the lake in Silverpine Forest?"
+TriviaBot_Questions[1]['Question'][162] = "What is the name of the lake in Silverpine Forest?" 
 TriviaBot_Questions[1]['Answers'][162] = {"Lake Lordamere", "Lordamere Lake", "Lordamere"}
 TriviaBot_Questions[1]['Category'][162] = 3
 TriviaBot_Questions[1]['Points'][162] = "1"
@@ -1049,3 +1049,39 @@ TriviaBot_Questions[1]['Answers'][165] = {"Air Totem"}
 TriviaBot_Questions[1]['Category'][165] = 3
 TriviaBot_Questions[1]['Points'][165] = "1"
 TriviaBot_Questions[1]['Hints'][165] = {}
+
+TriviaBot_Questions[1]['Question'][166] = "The Shrine of the Fallen Warrior is a memorial to Michel Koiter, a Blizzard employee who died during the development of World of Warcraft.  In which zone is it located?"
+TriviaBot_Questions[1]['Answers'][166] = {"The Barrens", "Barrens"}
+TriviaBot_Questions[1]['Category'][166] = 3
+TriviaBot_Questions[1]['Points'][166] = "1"
+TriviaBot_Questions[1]['Hints'][166] = {}
+
+TriviaBot_Questions[1]['Question'][167] = "A notoriously deadly named Defias member resides in a house near FurlBrow's Pumpkin Patch.  what is his name? (full NPC name)"
+TriviaBot_Questions[1]['Answers'][167] = {"Benny Blaanco"}
+TriviaBot_Questions[1]['Category'][167] = 2
+TriviaBot_Questions[1]['Points'][167] = "1"
+TriviaBot_Questions[1]['Hints'][167] = {}
+
+TriviaBot_Questions[1]['Question'][168] = "Name the item: Use: You turn to stone, protecting you from all physical attacks and spells for 1 min, but during that time you cannot attack, move or cast spells.  You can only have the effect of one flask at a time. (3 Sec Cooldown)"
+TriviaBot_Questions[1]['Answers'][168] = {"Flask of Petrification"}
+TriviaBot_Questions[1]['Category'][168] = 1
+TriviaBot_Questions[1]['Points'][168] = "1"
+TriviaBot_Questions[1]['Hints'][168] = {}
+
+TriviaBot_Questions[1]['Question'][169] = "How much additional damage does Enchant 2H Weapon - Superior Impact (the highest level impact enchant) provide to a weapon?"
+TriviaBot_Questions[1]['Answers'][169] = {"9", "+9"}
+TriviaBot_Questions[1]['Category'][169] = 1
+TriviaBot_Questions[1]['Points'][169] = "1"
+TriviaBot_Questions[1]['Hints'][169] = {}
+
+TriviaBot_Questions[1]['Question'][170] = "What consumable item, usable at level 45 and above, can be applied to a weapon to increase spell damage by up to 36 and increase spell crit by 1% for 30 minutes? (full name)"
+TriviaBot_Questions[1]['Answers'][170] = {"Brilliant Wizard Oil"}
+TriviaBot_Questions[1]['Category'][170] = 1
+TriviaBot_Questions[1]['Points'][170] = "1"
+TriviaBot_Questions[1]['Hints'][170] = {}
+
+TriviaBot_Questions[1]['Question'][170] = "Before declaring you worthy of his company, Hemet Nesingwary tests your mastery at hunter panthers, tigers, and what other type of creature?"
+TriviaBot_Questions[1]['Answers'][170] = {"raptor", "raptors"}
+TriviaBot_Questions[1]['Category'][170] = 1
+TriviaBot_Questions[1]['Points'][170] = "1"
+TriviaBot_Questions[1]['Hints'][170] = {}
