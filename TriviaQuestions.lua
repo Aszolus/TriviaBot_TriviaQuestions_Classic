@@ -804,8 +804,8 @@ TriviaBot_Questions[1]['Category'][124] = 2
 TriviaBot_Questions[1]['Points'][124] = "1"
 TriviaBot_Questions[1]['Hints'][124] = {}
 
-TriviaBot_Questions[1]['Question'][125] = "A neutral Auction House, run by goblins and available to both the Horde and the Alliance, can be found in Ratchet, Booty Bay, and which other town?"
-TriviaBot_Questions[1]['Answers'][125] = {"Gadgetzan"}
+TriviaBot_Questions[1]['Question'][125] = "A neutral Auction House, run by goblins and available to both the Horde and the Alliance, can be found in Ratchet, Booty Bay, Gadgetzan and which other town?"
+TriviaBot_Questions[1]['Answers'][125] = {"Everlook"}
 TriviaBot_Questions[1]['Category'][125] = 1
 TriviaBot_Questions[1]['Points'][125] = "1"
 TriviaBot_Questions[1]['Hints'][125] = {}
@@ -996,7 +996,7 @@ TriviaBot_Questions[1]['Category'][156] = 4
 TriviaBot_Questions[1]['Points'][156] = "1"
 TriviaBot_Questions[1]['Hints'][156] = {}
 
-TriviaBot_Questions[1]['Question'][157] = "What is the name of the epic fire resistance cape crafted specifically for Molten Core?"
+TriviaBot_Questions[1]['Question'][157] = "What is the name of the epic fire resistance cape crafted specifically for Blackwing Lair?"
 TriviaBot_Questions[1]['Answers'][157] = {"Onyxia Scale Cloak"}
 TriviaBot_Questions[1]['Category'][157] = 4
 TriviaBot_Questions[1]['Points'][157] = "1"
@@ -1085,3 +1085,39 @@ TriviaBot_Questions[1]['Answers'][170] = {"raptor", "raptors"}
 TriviaBot_Questions[1]['Category'][170] = 1
 TriviaBot_Questions[1]['Points'][170] = "1"
 TriviaBot_Questions[1]['Hints'][170] = {}
+
+TriviaBot_Questions[1]['Question'][171] = "What is the name of the docked ship at Menethil Harbor?"
+TriviaBot_Questions[1]['Answers'][171] = {"The Maiden's Virtue", "Maiden's Virtue"}
+TriviaBot_Questions[1]['Category'][171] = 2
+TriviaBot_Questions[1]['Points'][171] = "1"
+TriviaBot_Questions[1]['Hints'][171] = {}
+
+TriviaBot_Questions[1]['Question'][172] = "To which continent did arthas pursue Malganis"
+TriviaBot_Questions[1]['Answers'][172] = {"Northrend"}
+TriviaBot_Questions[1]['Category'][172] = 4
+TriviaBot_Questions[1]['Points'][172] = "1"
+TriviaBot_Questions[1]['Hints'][172] = {}
+
+TriviaBot_Questions[1]['Question'][173] = "Which demon's skull did Illidan consume?"
+TriviaBot_Questions[1]['Answers'][173] = {"Gul'dan"}
+TriviaBot_Questions[1]['Category'][173] = 4
+TriviaBot_Questions[1]['Points'][173] = "1"
+TriviaBot_Questions[1]['Hints'][173] = {}
+
+TriviaBot_Questions[1]['Question'][174] = "In Warcraft III: The Frozen Throne, which orc shaman's spirit did Arthas merge with to become the Lich King?"
+TriviaBot_Questions[1]['Answers'][174] = {"Ner'zhul"}
+TriviaBot_Questions[1]['Category'][174] = 4
+TriviaBot_Questions[1]['Points'][174] = "1"
+TriviaBot_Questions[1]['Hints'][174] = {}
+
+TriviaBot_Questions[1]['Question'][175] = "How many seconds does it take to use a hearthstone?"
+TriviaBot_Questions[1]['Answers'][175] = {"10", "ten"}
+TriviaBot_Questions[1]['Category'][175] = 4
+TriviaBot_Questions[1]['Points'][175] = "1"
+TriviaBot_Questions[1]['Hints'][175] = {}
+
+TriviaBot_Questions[1]['Question'][175] = "How many seconds does it take to use a hearthstone?"
+TriviaBot_Questions[1]['Answers'][175] = {"10", "ten"}
+TriviaBot_Questions[1]['Category'][175] = 4
+TriviaBot_Questions[1]['Points'][175] = "1"
+TriviaBot_Questions[1]['Hints'][175] = {}
