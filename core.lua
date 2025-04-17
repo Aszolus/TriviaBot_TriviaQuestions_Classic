@@ -23,5 +23,3 @@ local function deepcopy(object)
 end
 
 _G[addonName] = {["QuestionList"] = deepcopy(TriviaBot_Questions[1])}
-
-print("External question addon loaded, addonName =", tostring(addonName))
