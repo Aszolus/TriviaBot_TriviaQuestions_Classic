@@ -57,7 +57,7 @@ TriviaBot_Questions[1]['Category'][5] = 1
 TriviaBot_Questions[1]['Points'][5] = "1"
 TriviaBot_Questions[1]['Hints'][5] = {}
 
-TriviaBot_Questions[1]['Question'][6] = "What is the Deadliest Creature in Mulgore? (By HC Kill count)"
+TriviaBot_Questions[1]['Question'][6] = "What is the Deadliest Creature in Mulgore?  *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][6] = {"Snagglespear"}
 TriviaBot_Questions[1]['Category'][6] = 1
 TriviaBot_Questions[1]['Points'][6] = "1"
@@ -88,7 +88,7 @@ TriviaBot_Questions[1]['Points'][10] = "1"
 TriviaBot_Questions[1]['Hints'][10] = {}
 
 -- Question 11
-TriviaBot_Questions[1]['Question'][11] = "What is the deadliest mob in Eastern Plaguelands? By HC Deathcount?"
+TriviaBot_Questions[1]['Question'][11] = "What is the deadliest mob in Eastern Plaguelands?  *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][11] = {"Fallen Hero", "fallen heroes"}
 TriviaBot_Questions[1]['Category'][11] = 1
 TriviaBot_Questions[1]['Points'][11] = "1"
@@ -123,7 +123,7 @@ TriviaBot_Questions[1]['Points'][15] = "1"
 TriviaBot_Questions[1]['Hints'][15] = {"There's no achievement for it Classic."}
 
 -- Question 16
-TriviaBot_Questions[1]['Question'][16] = "What is the deadliest mob in Dun Morough?"
+TriviaBot_Questions[1]['Question'][16] = "What is the deadliest mob in Dun Morough? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][16] = {"Wendigo"}
 TriviaBot_Questions[1]['Category'][16] = 1
 TriviaBot_Questions[1]['Points'][16] = "1"
@@ -137,7 +137,7 @@ TriviaBot_Questions[1]['Points'][17] = "1"
 TriviaBot_Questions[1]['Hints'][17] = {}
 
 -- Question 18
-TriviaBot_Questions[1]['Question'][18] = "What is the deadliest enemy found in Stranglethorn Vale that resides in a cave? (By HC Kill Count)"
+TriviaBot_Questions[1]['Question'][18] = "What is the deadliest enemy found in Stranglethorn Vale that resides in a cave?  *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][18] = {"Kurzen Subchief"}
 TriviaBot_Questions[1]['Category'][18] = 1
 TriviaBot_Questions[1]['Points'][18] = "1"
@@ -186,14 +186,14 @@ TriviaBot_Questions[1]['Points'][24] = "1"
 TriviaBot_Questions[1]['Hints'][24] = {}
 
 -- Question 25
-TriviaBot_Questions[1]['Question'][25] = "What is the deadliest mob in the Wetlands?"
+TriviaBot_Questions[1]['Question'][25] = "What is the deadliest mob in the Wetlands? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][25] = {"Young Wetlands Crocolisk"}
 TriviaBot_Questions[1]['Category'][25] = 1
 TriviaBot_Questions[1]['Points'][25] = "1"
 TriviaBot_Questions[1]['Hints'][25] = {}
 
 -- Question 26
-TriviaBot_Questions[1]['Question'][26] = "What is the deadliest mob in Loch Modan?"
+TriviaBot_Questions[1]['Question'][26] = "What is the deadliest mob in Loch Modan? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][26] = {"Stonesplinter Seer"}
 TriviaBot_Questions[1]['Category'][26] = 1
 TriviaBot_Questions[1]['Points'][26] = "1"
@@ -221,26 +221,26 @@ TriviaBot_Questions[1]['Points'][29] = "1"
 TriviaBot_Questions[1]['Hints'][29] = {}
 
 -- Question 30
-TriviaBot_Questions[1]['Question'][30] = "What is the deadliest mob in Darkshore? (By HC Kill count)"
+TriviaBot_Questions[1]['Question'][30] = "What is the deadliest mob in Darkshore? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][30] = {"Greymist Coastrunner"}
 TriviaBot_Questions[1]['Category'][30] = 1
 TriviaBot_Questions[1]['Points'][30] = "1"
 TriviaBot_Questions[1]['Hints'][30] = {"Mglrmglmglmgl!"}
 
 -- Question 30
-TriviaBot_Questions[1]['Question'][31] = "What is the deadliest mob in Tirisfal Glades? (By HC Kill count)"
+TriviaBot_Questions[1]['Question'][31] = "What is the deadliest mob in Tirisfal Glades? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][31] = {"Cursed Darkbound"}
 TriviaBot_Questions[1]['Category'][31] = 1
 TriviaBot_Questions[1]['Points'][31] = "1"
 TriviaBot_Questions[1]['Hints'][31] = {}
 
-TriviaBot_Questions[1]['Question'][32] = "What is the deadliest mob in Silverpine Forest? (By HC Kill count)"
+TriviaBot_Questions[1]['Question'][32] = "What is the deadliest mob in Silverpine Forest? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][32] = {"Son of Arugal"}
 TriviaBot_Questions[1]['Category'][32] = 1
 TriviaBot_Questions[1]['Points'][32] = "1"
 TriviaBot_Questions[1]['Hints'][32] = {}
 
-TriviaBot_Questions[1]['Question'][33] = "What is the deadliest mob in The Barrens? (By HC Kill count)"
+TriviaBot_Questions[1]['Question'][33] = "What is the deadliest mob in The Barrens? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][33] = {"Kolkar Invader"}
 TriviaBot_Questions[1]['Category'][33] = 1
 TriviaBot_Questions[1]['Points'][33] = "1"
@@ -252,25 +252,25 @@ TriviaBot_Questions[1]['Category'][34] = 1
 TriviaBot_Questions[1]['Points'][34] = "1"
 TriviaBot_Questions[1]['Hints'][34] = {}
 
-TriviaBot_Questions[1]['Question'][35] = "What is the deadliest mob the horde faces? (By HC kill count)"
+TriviaBot_Questions[1]['Question'][35] = "What is the deadliest mob the horde faces? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][35] = {"Voidwalker Minion"}
 TriviaBot_Questions[1]['Category'][35] = 1
 TriviaBot_Questions[1]['Points'][35] = "1"
 TriviaBot_Questions[1]['Hints'][35] = {}
 
-TriviaBot_Questions[1]['Question'][36] = "What is the most common way to die in Orgrimmar?"
+TriviaBot_Questions[1]['Question'][36] = "What is the most common way to die in Orgrimmar? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][36] = {"Gamon"}
 TriviaBot_Questions[1]['Category'][36] = 1
 TriviaBot_Questions[1]['Points'][36] = "1"
 TriviaBot_Questions[1]['Hints'][36] = {}
 
-TriviaBot_Questions[1]['Question'][37] = "What is the deadliest enemy in Mulgore? (By HC Kill count)"
+TriviaBot_Questions[1]['Question'][37] = "What is the deadliest enemy in Mulgore? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][37] = {"Snagglespear"}
 TriviaBot_Questions[1]['Category'][37] = 1
 TriviaBot_Questions[1]['Points'][37] = "1"
 TriviaBot_Questions[1]['Hints'][37] = {}
 
-TriviaBot_Questions[1]['Question'][38] = "What is the most common way to die in Thunder Bluff"
+TriviaBot_Questions[1]['Question'][38] = "What is the most common way to die in Thunder Bluff? *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][38] = {"Falling", "Fall damage"}
 TriviaBot_Questions[1]['Category'][38] = 1
 TriviaBot_Questions[1]['Points'][38] = "1"
