@@ -70,7 +70,7 @@ TriviaBot_Questions[1]['Points'][7] = "1"
 TriviaBot_Questions[1]['Hints'][7] = {}
 
 TriviaBot_Questions[1]['Question'][8] = "What is the Deadliest Creature in The Deadmines? *Based on HC Kill count."
-TriviaBot_Questions[1]['Answers'][8] = {"Defias Squallshaper", "Squallshaper"}
+TriviaBot_Questions[1]['Answers'][8] = {"Defias Squallshaper"}
 TriviaBot_Questions[1]['Category'][8] = 1
 TriviaBot_Questions[1]['Points'][8] = "1"
 TriviaBot_Questions[1]['Hints'][8] = {}
@@ -97,14 +97,14 @@ TriviaBot_Questions[1]['Hints'][11] = {"It spawns from Blood of Heroes."}
 -- Question 12
 TriviaBot_Questions[1]['Question'][12] = "Which dragon is the final boss in Blackwing Lair?"
 TriviaBot_Questions[1]['Answers'][12] = {"Nefarian", "nefarian"}
-TriviaBot_Questions[1]['Category'][12] = 1
+TriviaBot_Questions[1]['Category'][12] = 4
 TriviaBot_Questions[1]['Points'][12] = "1"
 TriviaBot_Questions[1]['Hints'][12] = {"He is a corrupted black dragon and the son of Deathwing."}
 
 -- Question 13
 TriviaBot_Questions[1]['Question'][13] = "Boss Quote: \"Now You're Making me Angry!\" "
 TriviaBot_Questions[1]['Answers'][13] = {"Mr. Smite", "Mr. Smite<The Ship's First Mate>", "mr smite"}
-TriviaBot_Questions[1]['Category'][13] = 1
+TriviaBot_Questions[1]['Category'][13] = 4
 TriviaBot_Questions[1]['Points'][13] = "1"
 TriviaBot_Questions[1]['Hints'][13] = {"Located in the Deadmines dungeon."}
 
@@ -137,7 +137,7 @@ TriviaBot_Questions[1]['Points'][17] = "1"
 TriviaBot_Questions[1]['Hints'][17] = {}
 
 -- Question 18
-TriviaBot_Questions[1]['Question'][18] = "What is the deadliest enemy found in Stranglethorn Vale that resides in a cave?  *Based on HC Kill count."
+TriviaBot_Questions[1]['Question'][18] = "What is the deadliest enemy found in Northern Stranglethorn Vale?  *Based on HC Kill count."
 TriviaBot_Questions[1]['Answers'][18] = {"Kurzen Subchief"}
 TriviaBot_Questions[1]['Category'][18] = 1
 TriviaBot_Questions[1]['Points'][18] = "1"
@@ -181,7 +181,7 @@ TriviaBot_Questions[1]['Hints'][23] = {}
 -- Question 24
 TriviaBot_Questions[1]['Question'][24] = "Which undead necromancer is the final boss of Naxxramas?"
 TriviaBot_Questions[1]['Answers'][24] = {"Kel'Thuzad", "kel'thuzad"}
-TriviaBot_Questions[1]['Category'][24] = 1
+TriviaBot_Questions[1]['Category'][24] = 4
 TriviaBot_Questions[1]['Points'][24] = "1"
 TriviaBot_Questions[1]['Hints'][24] = {}
 
@@ -225,7 +225,7 @@ TriviaBot_Questions[1]['Question'][30] = "What is the deadliest mob in Darkshore
 TriviaBot_Questions[1]['Answers'][30] = {"Greymist Coastrunner"}
 TriviaBot_Questions[1]['Category'][30] = 1
 TriviaBot_Questions[1]['Points'][30] = "1"
-TriviaBot_Questions[1]['Hints'][30] = {"Mglrmglmglmgl!"}
+TriviaBot_Questions[1]['Hints'][30] = {"They run along the coast."}
 
 -- Question 30
 TriviaBot_Questions[1]['Question'][31] = "What is the deadliest mob in Tirisfal Glades? *Based on HC Kill count."
@@ -248,7 +248,7 @@ TriviaBot_Questions[1]['Hints'][33] = {}
 
 TriviaBot_Questions[1]['Question'][34] = "What is the first wand an enchanter can make?"
 TriviaBot_Questions[1]['Answers'][34] = {"Lesser Magic Wand"}
-TriviaBot_Questions[1]['Category'][34] = 1
+TriviaBot_Questions[1]['Category'][34] = 4
 TriviaBot_Questions[1]['Points'][34] = "1"
 TriviaBot_Questions[1]['Hints'][34] = {}
 
@@ -1092,13 +1092,13 @@ TriviaBot_Questions[1]['Category'][171] = 2
 TriviaBot_Questions[1]['Points'][171] = "1"
 TriviaBot_Questions[1]['Hints'][171] = {}
 
-TriviaBot_Questions[1]['Question'][172] = "To which continent did arthas pursue Malganis"
+TriviaBot_Questions[1]['Question'][172] = "To which continent did arthas pursue Malganis. (Yes, this lore existed during Vanilla)"
 TriviaBot_Questions[1]['Answers'][172] = {"Northrend"}
 TriviaBot_Questions[1]['Category'][172] = 4
 TriviaBot_Questions[1]['Points'][172] = "1"
 TriviaBot_Questions[1]['Hints'][172] = {}
 
-TriviaBot_Questions[1]['Question'][173] = "Which demon's skull did Illidan consume?"
+TriviaBot_Questions[1]['Question'][173] = "Whose skull did Illidan consume?"
 TriviaBot_Questions[1]['Answers'][173] = {"Gul'dan"}
 TriviaBot_Questions[1]['Category'][173] = 4
 TriviaBot_Questions[1]['Points'][173] = "1"
@@ -1112,12 +1112,18 @@ TriviaBot_Questions[1]['Hints'][174] = {}
 
 TriviaBot_Questions[1]['Question'][175] = "How many seconds does it take to use a hearthstone?"
 TriviaBot_Questions[1]['Answers'][175] = {"10", "ten"}
-TriviaBot_Questions[1]['Category'][175] = 4
+TriviaBot_Questions[1]['Category'][175] = 1
 TriviaBot_Questions[1]['Points'][175] = "1"
 TriviaBot_Questions[1]['Hints'][175] = {}
 
-TriviaBot_Questions[1]['Question'][175] = "How many seconds does it take to use a hearthstone?"
-TriviaBot_Questions[1]['Answers'][175] = {"10", "ten"}
-TriviaBot_Questions[1]['Category'][175] = 4
-TriviaBot_Questions[1]['Points'][175] = "1"
-TriviaBot_Questions[1]['Hints'][175] = {}
+TriviaBot_Questions[1]['Question'][176] = "The quest [In the Name of the Light] has the player travel to which group of dungeons to kill four bosses?"
+TriviaBot_Questions[1]['Answers'][176] = {"Scarlet Monastery", "The Scarlet Monastery"}
+TriviaBot_Questions[1]['Category'][176] = 2
+TriviaBot_Questions[1]['Points'][176] = "1"
+TriviaBot_Questions[1]['Hints'][176] = {}
+
+TriviaBot_Questions[1]['Question'][177] = "Excluding rare bosses, how many bosses are there in all of the Scarlet Monastery instances combined?"
+TriviaBot_Questions[1]['Answers'][177] = {"8", "Eight"}
+TriviaBot_Questions[1]['Category'][177] = 2
+TriviaBot_Questions[1]['Points'][177] = "1"
+TriviaBot_Questions[1]['Hints'][177] = {}
