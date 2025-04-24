@@ -1127,3 +1127,45 @@ TriviaBot_Questions[1]['Answers'][177] = {"8", "Eight"}
 TriviaBot_Questions[1]['Category'][177] = 2
 TriviaBot_Questions[1]['Points'][177] = "1"
 TriviaBot_Questions[1]['Hints'][177] = {}
+
+TriviaBot_Questions[1]['Question'][178] = "The Stone of Remembrance is a monument dedicated to all those who have fallen in the protection of Stormwind.  In what zone does it lie?"
+TriviaBot_Questions[1]['Answers'][178] = {"Elwynn Forest", "Elwynn"}
+TriviaBot_Questions[1]['Category'][178] = 2
+TriviaBot_Questions[1]['Points'][178] = "1"
+TriviaBot_Questions[1]['Hints'][178] = {}
+
+TriviaBot_Questions[1]['Question'][179] = "After assisting Baros Alexston and exposing the Defias Brotherhood's conspiracy, what signet does the player receive as a token of royal gratitude?"
+TriviaBot_Questions[1]['Answers'][179] = {"Seal of Wrynn"}
+TriviaBot_Questions[1]['Category'][179] = 2
+TriviaBot_Questions[1]['Points'][179] = "1"
+TriviaBot_Questions[1]['Hints'][179] = {}
+
+TriviaBot_Questions[1]['Question'][179] = "What type of item of sentimental value does Baros Alexston ask you to retrieve from his old farm in Westfall?"
+TriviaBot_Questions[1]['Answers'][179] = {"Compass", "A Simple Compass"}
+TriviaBot_Questions[1]['Category'][179] = 2
+TriviaBot_Questions[1]['Points'][179] = "1"
+TriviaBot_Questions[1]['Hints'][179] = {}
+
+TriviaBot_Questions[1]['Question'][180] = "What potion increases your walking speed by 50% for 15 seconds?"
+TriviaBot_Questions[1]['Answers'][180] = {"Swiftness", "Swiftness Potion"}
+TriviaBot_Questions[1]['Category'][180] = 1
+TriviaBot_Questions[1]['Points'][180] = "1" 
+TriviaBot_Questions[1]['Hints'][180] = {}
+
+TriviaBot_Questions[1]['Question'][181] = "What is the name of the Alliance only quest reward which grants immunity to all damage and spells for 10 seconds?"
+TriviaBot_Questions[1]['Answers'][181] = {"Light of Elune"}
+TriviaBot_Questions[1]['Category'][181] = 2
+TriviaBot_Questions[1]['Points'][181] = "1"
+TriviaBot_Questions[1]['Hints'][181] = {}
+
+TriviaBot_Questions[1]['Question'][182] = "What item is required for alchemists to be able to perform transmutations?"
+TriviaBot_Questions[1]['Answers'][182] = {"Philosopher's Stone"}
+TriviaBot_Questions[1]['Category'][182] = 4
+TriviaBot_Questions[1]['Points'][182] = "1"
+TriviaBot_Questions[1]['Hints'][182] = {"The apostrophe matters."}
+
+TriviaBot_Questions[1]['Question'][183] = "What is the minimum level at which a Warrior can complete the quest 'Whirlwind Weapon' which rewards various powerful 'Whirlwind' weapons?"
+TriviaBot_Questions[1]['Answers'][183] = {"30", "thirty"}
+TriviaBot_Questions[1]['Category'][183] = 4
+TriviaBot_Questions[1]['Points'][183] = "1"
+TriviaBot_Questions[1]['Hints'][183] = {}
